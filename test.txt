@@ -4,3 +4,4 @@ version 2.0
 image=alios
 image=win2016
 image=win2019
+image=centos
