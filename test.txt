@@ -5,3 +5,4 @@ image=alios
 image=win2016
 image=win2019
 image=centos
+test=inner_reboot
