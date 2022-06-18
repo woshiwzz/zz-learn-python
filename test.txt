@@ -6,3 +6,4 @@ image=win2016
 image=win2019
 image=centos
 test=inner_reboot
+我的virtual-box wi10终于可用了
