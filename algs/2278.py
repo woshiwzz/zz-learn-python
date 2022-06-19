@@ -7,3 +7,4 @@ def foo():
 
 print(foo())
 
+# 我就试试中文
