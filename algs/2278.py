@@ -7,5 +7,3 @@ def foo():
 
 print(foo())
 
-
-# 我是中国人
